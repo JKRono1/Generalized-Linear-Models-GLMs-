@@ -10,4 +10,4 @@ The usual GLMs assumes that the observations are independent, when this assumpti
 
 Two very important members of the family of generalized linear models are logistic regression and Poisson regression. They both find extensive application in biological, biomedical, and environmental problems.
 
-For illustrion therefore, I will proceed to develop the logistic regression model from a regression analysis point of view.
+
